@@ -8,3 +8,7 @@ use Keras with Tensorflow as its backend to train an autoencoder, and use this d
     Task 3: Create Dataset and Specify Training Routine
     Task 4: Load the Dataset and Pre-trained Model
     Task 5: Model Predictions and Visualizing the Results
+
+
+
+note : the data provided is subset from all the dataset
